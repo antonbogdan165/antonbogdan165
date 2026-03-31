@@ -31,7 +31,7 @@
 
 > Calculator for school grading (FO, SOR, SOCH)
 
-- ⚡ Fast & simple  
+- ⚡ Fast & simple 
 - 🎯 Helps students predict final grades  
 - 📱 Works on any device  
 - 🆓 Free & no registration  
@@ -61,5 +61,5 @@
 ## 🐍 Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/antonbogdan165/antonbogdan165/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/antonbogdan165/antonbogdan165/output/snake.svg"/>
 </p>
