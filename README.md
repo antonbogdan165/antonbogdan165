@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Machine+Learning+Enthusiast;Building+AI+Projects" />
+</p>
 
-<!--
-**antonbogdan165/antonbogdan165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Anton</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🐍 Python Developer • 🤖 ML Enthusiast • 🇰🇿 Kazakhstan
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 🚀 Building useful tools and experimenting with Machine Learning  
+- 📊 Love working with data and automation  
+- 💡 Constantly improving my AI skills  
+
+---
+
+## ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-blue">
+  <img src="https://img.shields.io/badge/Pandas-lightgrey">
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange">
+  <img src="https://img.shields.io/badge/Matplotlib-green">
+</p>
+
+---
+
+## 🚀 Featured Project
+🔗 **BilimCalc**  
+Online calculator for СО, СОР, СОЧ (Kazakhstan)  
+👉 https://bilimcalc.vercel.app/
+
+---
+
+## 📊 3D Contribution Graph
+<p align="center">
+  <img src="https://github.com/antonbogdan165/antonbogdan165/blob/output/profile-night-rainbow.svg" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/antonbogdan165/antonbogdan165/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antonbogdan165&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonbogdan165&layout=compact&theme=tokyonight" />
+</p>
