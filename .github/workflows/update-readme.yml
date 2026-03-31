@@ -5,23 +5,26 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: antonbogdan165
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          outputs: dist/snake.svg
 
-      - name: Deploy snake
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: ./dist
           publish_branch: output
