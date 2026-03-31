@@ -41,14 +41,14 @@ Online calculator for СО, СОР, СОЧ (Kazakhstan)
 
 ## 📊 3D Contribution Graph
 <p align="center">
-  <img src="https://github.com/antonbogdan165/antonbogdan165/blob/output/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/antonbogdan165/antonbogdan165/output/profile-night-rainbow.svg" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/antonbogdan165/antonbogdan165/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/antonbogdan165/antonbogdan165/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
