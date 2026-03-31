@@ -14,24 +14,18 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Generate 3D Graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: antonbogdan165
-
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: antonbogdan165
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.svg
 
       - name: Prepare Assets
         run: |
           mkdir -p final_assets
-          cp -r profile-3d-contrib/* final_assets/
-          cp dist/github-contribution-grid-snake-dark.svg final_assets/
+          cp dist/*.svg final_assets/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
