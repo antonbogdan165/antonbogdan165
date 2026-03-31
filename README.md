@@ -37,7 +37,7 @@
 - 🆓 Free & no registration  
 
 <p align="center">
-  <img src="./assets/site-preview.png" width="800"/>
+  <img src="./site-preview.png" width="800"/>
 </p>
 
 ---
