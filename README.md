@@ -27,7 +27,7 @@
 
 ### 🔹 BilimCalc
 
-🔗 https://bilimcalc.vercel.app/
+🔗 https://bilimcalc.asia/
 
 > Calculator for school grading (FO, SOR, SOCH)
 
