@@ -51,7 +51,7 @@
 ## 🌐 Links
 
 <p>
-  <a href="https://t.me/asdasfasfasfszfsedfascasd">
+  <a href="https://t.me/asdasfasfasfszfsedf">
     <img src="https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
