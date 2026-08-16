@@ -1,65 +1,33 @@
-# 👋 Hi, I'm Anton
+# Anton
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Machine+Learning+Enthusiast;Building+Useful+Tools&center=true&width=500&height=45">
-</p>
+Python developer from Kazakhstan, currently deepening my skills in machine learning while building practical, real-world tools.
 
----
+## Projects
 
-## 👨‍💻 About
+### BilimCalc
+A web-based grade calculator for the Kazakhstani school grading system (FO, SOR, SOCh) — helps students predict their final grades quickly, with no sign-up required.
 
-- 🇰🇿 Developer from Kazakhstan  
-- 🧠 Learning Machine Learning  
-- ⚡ Building real-world tools  
-- 📈 Constantly improving  
+**Live:** [bilimcalc.asia](https://bilimcalc.asia/)
+**Stack:** JavaScript, HTML/CSS
 
----
 
-## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
+![preview](./site-preview.png)
 
----
 
-## 🚀 Projects
 
-### 🔹 BilimCalc
+*More projects in progress.*
 
-🔗 https://bilimcalc.asia/
+## Stack
 
-> Calculator for school grading (FO, SOR, SOCH)
+Python · JavaScript · HTML/CSS
 
-- ⚡ Fast & simple 
-- 🎯 Helps students predict final grades  
-- 📱 Works on any device  
-- 🆓 Free & no registration  
+## Contact
 
-<p align="center">
-  <img src="./site-preview.png" width="800"/>
-</p>
+[Telegram](https://t.me/asdasfasfasfszfsedf)
 
 ---
 
-### ⚡ More coming soon...
 
-> Currently building new projects 👨‍💻
 
----
-
-## 🌐 Links
-
-<p>
-  <a href="https://t.me/asdasfasfasfszfsedf">
-    <img src="https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🐍 Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/antonbogdan165/antonbogdan165/output/snake.svg"/>
-</p>
+![snake animation](https://raw.githubusercontent.com/antonbogdan165/antonbogdan165/output/snake.svg)
